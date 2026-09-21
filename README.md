@@ -30,7 +30,7 @@ python -m pip install -r requirements.txt
 2. Ejecutar el modelo:
 
 ```bash
-python predictor_salarios.py
+cd "Proyecto 04" && python predictor_salarios.py
 ```
 
 ## Resultados
